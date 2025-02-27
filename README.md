@@ -5,7 +5,9 @@
 
 [Видео-пример](https://github.com/user-attachments/assets/67887026-3ffd-4c57-aad4-264a30915280)
 
-## Основное
+*Используемые технологии: html-css, JS, React Native, async storage.*
+
+## Подробности: метод pomodoro
 
 ![image](https://github.com/user-attachments/assets/8b9cb4a1-53dc-45e1-bfe4-ce9570a4943e)
 
